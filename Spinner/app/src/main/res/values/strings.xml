@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversor</string>
+
+    <string name="txt_convertir">Convertir:</string>
+    <string name="txt_a">A:</string>
+
+    <string name="btn_convertir">Convertir</string>
+
+
+</resources>
